@@ -2,7 +2,7 @@
   "name": "videos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ismailrubad.github.io/Fetching-youtube-video",
+  "homepage": "http://ismailrubad.github.io/fetching-youtube-video",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.6",
